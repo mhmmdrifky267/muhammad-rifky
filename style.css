@@ -1,0 +1,52 @@
+.jumbotron {
+  text-align: center;
+  background-color: rgb(237, 234, 234);
+  margin: auto;
+  width: 100%;
+  height: 120vh;
+}
+
+.jumbotron img {
+  width: 23rem;
+  height: 25rem;
+  margin-top: 8rem;
+}
+
+.jumbotron h1 {
+  padding-top: -2rem;
+}
+
+#id h2 {
+  padding: 2rem;
+  margin: 2rem;
+}
+.kontak {
+  background-color: black;
+  margin: 0;
+  left: 0;
+  margin: auto;
+  height: 30vh;
+  border-radius: 50px;
+}
+.kontak h2 {
+  margin: auto;
+  display: inline-block;
+
+  margin-top: 1.4rem;
+  width: 8rem;
+  margin-bottom: 1.4rem;
+}
+
+.kontak .kontak_list img {
+  width: 2rem;
+  padding: 0;
+}
+
+.kontak .kontak_list a {
+  text-decoration: none;
+  color: white;
+  justify-items: flex-end;
+  justify-content: space-between;
+  margin: 2rem;
+  margin-top: 3rem;
+}
